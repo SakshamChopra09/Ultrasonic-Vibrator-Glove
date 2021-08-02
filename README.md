@@ -35,3 +35,4 @@ Hence, distance in cm = duration/29/2
 
 # Other
 The same device can be implemented on other equipments like knee guard and elbow guard.
+Demonstration video: https://drive.google.com/file/d/1wraBmhWuSw4PbBPq0F8fcjypMVIsyTh6/view?usp=sharing
