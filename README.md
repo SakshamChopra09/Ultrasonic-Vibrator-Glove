@@ -26,7 +26,7 @@ The intensity of vibration and rate of beeping increases with decrease in distan
 The distance is calculated in cm which is calculated from time i.e., duration.
 Under room conditions, speed of sound is nearly 343 m/s => 34300 cm/s  
               34300 cm --> 1 sec  
-                  1 cm --> (1/343000*1  
+                  1 cm --> (1/34300)*1  
                            =29*10^-6 sec  
                            =29 us (micro seconds)  
 Sound has to travel the distance twice (to and from object)  
